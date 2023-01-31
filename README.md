@@ -37,7 +37,7 @@ bash code/run.sh
 
 ## Reference
 
-Pls consider cite our paper:
+Pls consider cite our [paper](https://arxiv.org/pdf/2301.10230.pdf):
 ```bash
 @article{li2023double,
   title={Double Matching Under Complementary Preferences},
