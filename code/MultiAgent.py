@@ -9,7 +9,7 @@ import itertools
 from mpl_toolkits.axes_grid1.inset_locator import zoomed_inset_axes
 from mpl_toolkits.axes_grid1.inset_locator import mark_inset
 import matplotlib.patches as mpatches
-from utils import *
+from code.utils import *
 from tqdm import tqdm, trange
 
 

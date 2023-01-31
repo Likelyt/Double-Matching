@@ -20,7 +20,7 @@ from mpl_toolkits.axes_grid1.inset_locator import mark_inset
 from tqdm import tqdm
 from tqdm.auto import trange
 from MultiAgent import Multi_Agent_DA_with_Type, School_Choice_Algo, MultiBanditEnv, Policy
-from utils import Preference_Split
+from code.utils import Preference_Split
 from scipy.stats import beta
 
 logger = logging.getLogger(__name__)
